@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React from Namaste React**
 
-- 📫 How to reach me **kunalkhandekar010@gmail.com**
+- 📫 How to reach me **kunalkhandekar.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
