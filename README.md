@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kunal Khandekar</h1>
 <h3 align="center">A passionate student for the world of coding</h3>
 
-- 🌱 I’m currently learning **React from Namaste React**
+- 🌱 I’m currently exploring **Backend [MERN]**
 
 - 📫 How to reach me **kunalkhandekar.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_kunalkhandekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_kunalkhandekar" height="30" width="40" /></a>
-<a href="https://instagram.com/_kunal_khandekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kunal_khandekar" height="30" width="40" /></a>
+<a href="https://instagram.com/kunalkhandekar.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kunal_khandekar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
