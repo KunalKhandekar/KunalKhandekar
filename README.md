@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Khandekar</h1>
 
-# 💫 About Me:
+## 💫 About Me:
 A passionate student for the world of coding<br>🌱 I’m currently exploring Backend [MERN]<br>🚀 I'm currently working on talkAtive (Chat Application)<br>📫 How to reach me kunalkhandekar.dev@gmail.com
 
 
