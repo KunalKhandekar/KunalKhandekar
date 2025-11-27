@@ -65,7 +65,7 @@ const sahil = {
 
 ## 🎨 Featured Projects
 
-### [StoreMyStuff](https://github.com/KunalKhandekar/storemystuff) ☁️
+### [StoreMyStuff](https://github.com/KunalKhandekar/Storage-App)
 > Full-stack cloud storage platform combining modern web tech with AWS infrastructure
 
 **Tech Stack:** MERN Stack, AWS S3, Redis, Razorpay
@@ -79,7 +79,7 @@ const sahil = {
 - Responsive design for mobile and desktop
 - Storage quota management
 
-### [CICD-SERVER](https://github.com/KunalKhandekar/Custom-CICD-Server) 🔄
+### [CICD-SERVER](https://github.com/KunalKhandekar/Custom-CICD-Server)
 > Production-ready CI/CD server built without third-party platforms—complete control over your deployment pipeline
 
 **Tech:** Node.js, Shell Scripting, Git Hooks, PM2  
@@ -128,11 +128,11 @@ const sahil = {
         </a>
       </td>
       <td align="center" width="200">
-        <a href="https://github.com/KunalKhandekar">
-          <img src="https://dzdw2zccyu2wu.cloudfront.net/overview/github.png" width="50" /><br/>
-          <sub><b>Follow on GitHub</b></sub>
-        </a>
-      </td>
+  <a href="https://x.com/_kunalkhandekar">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" width="50" /><br/>
+    <sub><b>Follow on X</b></sub>
+  </a>
+</td>
     </tr>
   </table>
 </div>
